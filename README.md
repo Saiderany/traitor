@@ -1,3 +1,4 @@
+109
 # Traitor
 
 Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!
